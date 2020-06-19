@@ -1,0 +1,24 @@
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  border: 1px solid green;
+  width: 100vw;
+  height: 50vh;
+  overflow-x: hidden;
+}
+
+.menu {
+  border: 1px solid red;
+  width: 70%;
+  height: 100%;
+}
+
+.slideMenu {
+  position: absolute;
+  right: -51%;
+  background-color: #00000080;
+  width: 50%;
+  height: 100%;
+}
